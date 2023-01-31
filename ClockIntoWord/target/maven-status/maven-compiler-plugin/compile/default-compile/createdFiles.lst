@@ -1,0 +1,6 @@
+com/tech/clockintoword/controller/ClockToWordConversionController.class
+com/tech/clockintoword/utils/HoursUtil.class
+com/tech/clockintoword/service/WordConversionService.class
+com/tech/clockintoword/utils/MinutesUtil.class
+com/tech/clockintoword/serviceimpl/WordConversionServiceImpl.class
+com/tech/clockintoword/ClockIntoWordApplication.class

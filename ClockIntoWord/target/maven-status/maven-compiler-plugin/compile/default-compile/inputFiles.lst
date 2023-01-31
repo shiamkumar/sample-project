@@ -1,0 +1,6 @@
+/home/sys-user/vm_workspace/ClockIntoWord/src/main/java/com/tech/clockintoword/ClockIntoWordApplication.java
+/home/sys-user/vm_workspace/ClockIntoWord/src/main/java/com/tech/clockintoword/utils/MinutesUtil.java
+/home/sys-user/vm_workspace/ClockIntoWord/src/main/java/com/tech/clockintoword/utils/HoursUtil.java
+/home/sys-user/vm_workspace/ClockIntoWord/src/main/java/com/tech/clockintoword/service/WordConversionService.java
+/home/sys-user/vm_workspace/ClockIntoWord/src/main/java/com/tech/clockintoword/serviceimpl/WordConversionServiceImpl.java
+/home/sys-user/vm_workspace/ClockIntoWord/src/main/java/com/tech/clockintoword/controller/ClockToWordConversionController.java
